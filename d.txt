@@ -3,10 +3,11 @@
 
  Directory of D:\gitrepos\CoolProject
 
-05-03-2018  20:32    <DIR>          .
-05-03-2018  20:32    <DIR>          ..
+05-03-2018  20:34    <DIR>          .
+05-03-2018  20:34    <DIR>          ..
 05-03-2018  20:32               378 a.gtxt
-05-03-2018  20:32                 0 b.txt
+05-03-2018  20:32               421 b.txt
+05-03-2018  20:34                 0 d.txt
 05-03-2018  20:20                51 README.txt
-               3 File(s)            429 bytes
+               4 File(s)            850 bytes
                2 Dir(s)  851,638,071,296 bytes free
