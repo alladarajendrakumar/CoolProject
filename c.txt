@@ -1,0 +1,16 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 069F-E679
+
+ Directory of D:\temp_code\CoolProject
+
+05-03-2018  21:16    <DIR>          .
+05-03-2018  21:16    <DIR>          ..
+05-03-2018  21:07               378 a.gtxt
+05-03-2018  21:16               551 b.txt
+05-03-2018  21:16                 0 c.txt
+05-03-2018  21:07               464 d.txt
+05-03-2018  21:07               464 r.txt
+05-03-2018  21:07                51 README.txt
+05-03-2018  21:07               507 s.txt
+               7 File(s)          2,415 bytes
+               2 Dir(s)  851,638,009,856 bytes free
