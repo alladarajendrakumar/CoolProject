@@ -1,0 +1,27 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 069F-E679
+
+ Directory of D:\gitrepos\CoolProject
+
+07-03-2018  16:40    <DIR>          .
+07-03-2018  16:40    <DIR>          ..
+07-03-2018  16:37               378 a.gtxt
+07-03-2018  16:40                 0 abc.txt
+06-03-2018  20:33               719 b.txt
+06-03-2018  20:08               594 c.txt
+06-03-2018  19:59               497 d.txt
+06-03-2018  20:08               637 e.txt
+06-03-2018  20:45               811 f2.java
+06-03-2018  20:45               973 f2_class_dll.cpp
+06-03-2018  20:45               919 f2_class_dll.cs
+06-03-2018  20:45               866 f2_class_dll.java
+06-03-2018  20:45               817 feature1.java
+06-03-2018  20:45               877 feature1_abstract.java
+05-03-2018  20:46               464 r.txt
+05-03-2018  20:20                51 README.txt
+05-03-2018  20:46               507 s.txt
+06-03-2018  19:58               594 u.txt
+06-03-2018  19:52               551 u.xtxt
+06-03-2018  20:03               637 z.txt
+              18 File(s)         10,892 bytes
+               2 Dir(s)  850,683,363,328 bytes free
